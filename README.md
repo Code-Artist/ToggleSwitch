@@ -1,4 +1,5 @@
 # ToggleSwitch WinForms Control
+![Nuget](https://img.shields.io/nuget/v/WinFormsToggleSwitch)
 A ToggleSwitch that presents on/off values in a more interesting way than a standard CheckBox, created by ![Johnny J](https://www.codeproject.com/script/Membership/View.aspx?mid=926948), published as article in Code Project - ![ToggleSwitch WinForms Control](https://www.codeproject.com/Articles/1029499/ToggleSwitch-Winforms-Control) on 11 Sept 2015.
 
 ## License
