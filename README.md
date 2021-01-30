@@ -8,11 +8,11 @@ A ToggleSwitch that presents on/off values in a more interesting way than a stan
 
 ## Revision History
 
-#### Version 1.1
+#### Version 1.1 (2019-02-20)
 NEW: BeforeRendering event added to make it easier to customize the renderer properties
 NEW: Style and Renderer added: PlainAndSimple
 UPDATED: Demo app updated with the new features
 
 
-#### Version 1.0
+#### Version 1.0 (2015-09-11)
 Initial Release
